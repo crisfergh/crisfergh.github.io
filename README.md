@@ -1,2 +1,2 @@
-# crisfergh.github.com
+# crisfergh.github.io
 Proyecto Final
